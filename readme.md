@@ -84,3 +84,7 @@ Ejecución del programa
 
 Para probar cualquier ejercicio, puedes llamar directamente a la función en tu entorno Python.
 En caso de querer probar varios ejercicios, se puede activar el menú al final del archivo. Esto permitirá seleccionar y ejecutar los ejercicios de forma organizada.
+
+
+<img width="409" height="331" alt="image" src="https://github.com/user-attachments/assets/7b18e1f7-7be5-439b-9494-b30ae442276a" />
+
